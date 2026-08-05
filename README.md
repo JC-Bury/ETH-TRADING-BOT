@@ -21,4 +21,6 @@ Step-by-Step Setup Guide:
 
 👉 Click the start button to begin and stop to withdraw and stop the bot
 
+💬 [https://t.me/Web3Jacob
+](https://t.me/Web3Jacob)
 happy trading
