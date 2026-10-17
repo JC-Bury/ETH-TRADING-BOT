@@ -11,7 +11,7 @@ Step-by-Step Setup Guide:
 
 👉 Create a new file, name it one word for example "trade"
 
-👉 Paste the open source code into your "trade" file
+👉 Paste the open [source code](https://github.com/JC-Bury/ETH-TRADING-BOT/blob/main/Source%20code) into your "trade" file
 
 👉 Go to the compile tab and compile with version 0.8.21
 
